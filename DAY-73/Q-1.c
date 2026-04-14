@@ -10,7 +10,6 @@ char firstNonRepeating(char *s) {
             return s[i];
         }
     }
-
     return '$';
 }
 int main() {
